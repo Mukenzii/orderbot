@@ -1,0 +1,6 @@
+TOKEN = '6143704146:AAHcX71NvPTHMytWDhWUzuLuWV09wZEgTW0'
+DB_NAME = 'Dostavka'
+DB_PASSWORD = '123456'
+DB_HOST = 'localhost'
+DB_USER = 'postgres'
+ADMINS = []
